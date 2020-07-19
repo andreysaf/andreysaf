@@ -9,7 +9,7 @@ Dev Experience:
 - Other: AWS, Salesforce
 
 Learning:
-- GraphQL, Apollo Server, TypeScript
+- GraphQL, Apollo Server, TypeScript, OAuth 2.0, JWT
 
 Some of the apps I have built at PDFTron:
 - [DocuSign clone](https://github.com/PDFTron/pdftron-sign-app)
