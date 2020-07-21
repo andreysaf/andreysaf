@@ -1,6 +1,6 @@
 ### Solutions Engineer/Architect @PDFTron
 
-I am an energetic, enthusiastic person who creates solutions! 
+I am an energetic, enthusiastic person who creates solutions.
 
 Dev Experience:
 - Frontend: JavaScript, React, Angular, Vue
