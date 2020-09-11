@@ -2,6 +2,8 @@
 
 I am an energetic, enthusiastic person who creates solutions.
 
+![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreysaf&show_icons=true&theme=gradient)
+
 ##### Dev Experience:
 - Frontend: JavaScript, React, Angular, Vue
 - Backend: Node.js, Express, .NET, Java
