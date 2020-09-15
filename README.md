@@ -4,7 +4,7 @@ I am an energetic, enthusiastic person who creates solutions.
 
 ##### Dev Experience:
 - Frontend: JavaScript, React, Angular, Vue
-- Backend: Node.js, Express, .NET, Java
+- Backend: Node.js, Express, .NET, Java, Pug
 - Databases: SQL, MongoDB, Firebase
 - Other: AWS, Salesforce
 
