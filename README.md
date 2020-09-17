@@ -1,8 +1,8 @@
-### Solutions Engineer/Architect @PDFTron
+### Solutions Engineer/Architect & Full-stack developer @PDFTron
 
 I am an energetic, enthusiastic person who creates solutions.
 
-I am an engineer who enjoys working directly with customers to understand requirements and build great applications. I constantly extend my T shaped knowledge by diving deep into every aspect of product creation and learning from the best in the industry.
+I enjoy working directly with customers to understand requirements and build great applications. I constantly extend my T shaped knowledge by diving deep into every aspect of product creation and learning from the best in the industry.
 
 ##### Dev Experience:
 - Frontend: JavaScript, React, Angular, Vue
