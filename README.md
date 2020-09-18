@@ -1,4 +1,4 @@
-### Solutions Engineer/Architect & Full-stack developer @PDFTron
+### Solutions Engineer/Architect & Full-stack Developer @PDFTron
 
 I am an energetic, enthusiastic person who creates solutions.
 
