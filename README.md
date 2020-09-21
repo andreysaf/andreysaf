@@ -1,4 +1,4 @@
-### Solutions Engineer/Architect & Full-stack Developer @PDFTron
+### [Solutions Engineer](https://medium.com/@safonand/what-is-a-technical-solutions-engineer-e3d4324efec)/Architect & Full-stack Developer @PDFTron
 
 I am an energetic, enthusiastic person who creates solutions.
 
