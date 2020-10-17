@@ -19,3 +19,4 @@ I enjoy working directly with customers to understand requirements and build gre
 - [Barcode generator/stamper/reader](https://github.com/PDFTron/webviewer-barcode)
 - [Drag-and-drop PDFs for splitting and merging](https://github.com/PDFTron/webviewer-document-merge)
 - [Mendix Web Widget](https://github.com/PDFTron/webviewer-mendix-sample)
+- [Email to PDF with attachments](https://github.com/PDFTron/nodejs-mail-to-pdf)
