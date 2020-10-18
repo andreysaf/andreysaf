@@ -6,12 +6,12 @@ I enjoy working directly with customers to understand requirements and build gre
 
 ##### Dev Experience:
 - Frontend: JavaScript, React, Angular, Vue
-- Backend: Node.js, Express, .NET, Java, Pug
+- Backend: Node.js, Express, .NET, Java, Pug, JWT
 - Databases: SQL, MongoDB, Firebase
 - Other: AWS, Salesforce
 
 ##### Learning:
-- GraphQL, Apollo Server, TypeScript, OAuth 2.0, JWT
+- GraphQL, Apollo Server, TypeScript, OAuth 2.0, 
 
 ###### Some of the apps I have built at PDFTron:
 - [DocuSign clone](https://github.com/PDFTron/pdftron-sign-app)
