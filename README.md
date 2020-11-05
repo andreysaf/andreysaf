@@ -15,6 +15,7 @@ I enjoy working directly with customers to understand requirements and build gre
 
 ###### Some of the apps I have built at PDFTron:
 - [DocuSign clone](https://github.com/PDFTron/pdftron-sign-app)
+- [Annotate live webpages](https://github.com/PDFTron/webviewer-html-annotate)
 - [Client-side search across multiple documents](https://github.com/PDFTron/pdftron-document-search)
 - [Barcode generator/stamper/reader](https://github.com/PDFTron/webviewer-barcode)
 - [Drag-and-drop PDFs for splitting and merging](https://github.com/PDFTron/webviewer-document-merge)
