@@ -7,6 +7,7 @@ I enjoy working directly with customers to understand requirements and build gre
 ##### Dev Experience:
 - Frontend: JavaScript, React, Angular, Vue
 - Backend: Node.js, Express, .NET, Java, Pug, JWT
+- Mobile: Android Native, React Native
 - Databases: SQL, MongoDB, Firebase
 - Other: AWS, Salesforce
 
