@@ -5,7 +5,7 @@ I am an energetic, enthusiastic person who creates solutions.
 I enjoy working directly with customers to understand requirements and build great applications. I constantly extend my T shaped knowledge by diving deep into every aspect of product creation and learning from the best in the industry.
 
 ##### Dev Experience:
-- Frontend: JavaScript, TS, React, Angular, Vue
+- Frontend: JS, TS, React, Angular, Vue
 - Backend: Node.js, Express, .NET, Java, Pug, JWT
 - Mobile: Android Native, React Native
 - Databases: SQL, MongoDB, Firebase
