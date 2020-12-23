@@ -22,3 +22,9 @@ I enjoy working directly with customers to understand requirements and build gre
 - [Drag-and-drop PDFs for splitting and merging](https://github.com/PDFTron/webviewer-document-merge)
 - [Mendix Web Widget](https://github.com/PDFTron/webviewer-mendix-sample)
 - [Email to PDF with attachments](https://github.com/PDFTron/nodejs-mail-to-pdf)
+
+###### NPM Packages
+
+- [WebViewer Walkthrough Experience](https://www.npmjs.com/package/@pdftron/webviewer-walkthrough)
+- [WebViewer Video annotation](https://www.npmjs.com/package/@pdftron/webviewer-video)
+- [WebViewer HTML annotation](https://www.npmjs.com/package/@pdftron/webviewer-html)
