@@ -12,7 +12,7 @@ I enjoy working directly with customers to understand requirements and build gre
 - Other: AWS, Salesforce
 
 ##### Learning:
-- GraphQL, Apollo Server, OAuth 2.0
+- GraphQL, Apollo Server, OAuth 2.0 and working on my AWS SAA-C02 
 
 ###### Some of the apps I have built at PDFTron:
 - [DocuSign clone](https://github.com/PDFTron/pdftron-sign-app)
