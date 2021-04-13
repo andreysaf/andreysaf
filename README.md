@@ -1,8 +1,12 @@
-### [Solutions Engineer](https://medium.com/@safonand/what-is-a-technical-solutions-engineer-e3d4324efec)/Architect & Full-stack Developer @PDFTron
+### Head of Product @PDFTron
 
-I am an energetic, enthusiastic person who creates solutions.
+I am a technical product manager who started my career as a software engineer then transitioned to consulting, sales engineering and then product. I enjoy working directly with customers to understand requirements and build great applications. I constantly extend my T-shaped knowledge by diving deep into every aspect of product creation and learning from the best in the industry.
 
-I enjoy working directly with customers to understand requirements and build great applications. I constantly extend my T shaped knowledge by diving deep into every aspect of product creation and learning from the best in the industry.
+My day-to-day is spent driving PDFTron products to success by working closely with customers, marketing, sales, design and engineering teams to add and release new features, APIs, and functionalities based on feedback, data and market research.
+
+I love meeting new people, so please feel free to say hello!
+
+You can find out more about my journey at www.andreysafonov.com.
 
 ##### Dev Experience:
 - Frontend: JS, TS, React, Angular, Vue
@@ -11,8 +15,14 @@ I enjoy working directly with customers to understand requirements and build gre
 - Databases: SQL, MongoDB, Firebase
 - Other: AWS, Salesforce
 
+##### Product Experience:
+- Agile SCRUM
+- UX
+- OKR framework
+
 ##### Learning:
-- GraphQL, Apollo Server, OAuth 2.0 and working on my AWS SAA-C02 
+- AWS Associate Solution Architect
+- Trailblazing Salesforce 
 
 ###### Some of the apps I have built at PDFTron:
 - [DocuSign clone](https://github.com/PDFTron/pdftron-sign-app)
