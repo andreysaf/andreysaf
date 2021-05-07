@@ -4,10 +4,6 @@ I am a technical product manager who started my career as a software engineer th
 
 My day-to-day is spent driving PDFTron products to success by working closely with customers, marketing, sales, design and engineering teams to add and release new features, APIs, and functionalities based on feedback, data and market research.
 
-I love meeting new people, so please feel free to say hello! 
-
-You can find out more about my journey at www.andreysafonov.com.
-
 Development Experience:
 - Frontend: JS, TS, React, Angular, Vue
 - Backend: Node.js, Express, .NET, Java
