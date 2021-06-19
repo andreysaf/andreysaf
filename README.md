@@ -31,6 +31,7 @@ Favourite Books for PM:
 
 ###### NPM Packages
 
-- [WebViewer Walkthrough Experience](https://www.npmjs.com/package/@pdftron/webviewer-walkthrough)
+- [WebViewer 3D annotation](https://www.npmjs.com/package/@pdftron/webviewer-3d)
 - [WebViewer Video annotation](https://www.npmjs.com/package/@pdftron/webviewer-video)
 - [WebViewer HTML annotation](https://www.npmjs.com/package/@pdftron/webviewer-html)
+- - [WebViewer Walkthrough Experience](https://www.npmjs.com/package/@pdftron/webviewer-walkthrough)
