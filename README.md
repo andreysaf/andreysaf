@@ -15,11 +15,6 @@ Learning:
 - AWS Associate Solution Architect
 - Trailblazing Salesforce
 
-Favourite Books for PM:
-- The Lean Startup by Eric Ries
-- Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp
-- The Design of Everyday Things by Don Norman
-
 ###### Some of the apps I have built at PDFTron:
 - [DocuSign clone](https://github.com/PDFTron/pdftron-sign-app)
 - [Annotate live webpages](https://github.com/PDFTron/webviewer-html-annotate)
