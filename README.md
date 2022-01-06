@@ -1,6 +1,6 @@
 ### Head of Product @PDFTron
 
-I am a technical product manager who started my career as a software engineer then transitioned to consulting, sales engineering and then product. I enjoy working directly with customers to understand requirements and build great applications. I constantly extend my T-shaped knowledge by diving deep into every aspect of product creation and learning from the best in the industry.
+I am a product manager who started my career as a software engineer then transitioned to consulting, sales engineering and then product. I enjoy working directly with customers to understand requirements and build great applications. I constantly extend my T-shaped knowledge by diving deep into every aspect of product creation and learning from the best in the industry.
 
 My day-to-day is spent driving PDFTron products to success by working closely with customers, marketing, sales, design and engineering teams to add and release new features, APIs, and functionalities based on feedback, data and market research.
 
