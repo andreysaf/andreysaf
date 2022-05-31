@@ -1,8 +1,6 @@
 ### Head of Product @PDFTron
 
-I am a product manager who started my career as a software engineer then transitioned to consulting, sales engineering and then product. I enjoy working directly with customers to understand requirements and build great applications. I constantly extend my T-shaped knowledge by diving deep into every aspect of product creation and learning from the best in the industry.
-
-My day-to-day is spent driving PDFTron products to success by working closely with customers, marketing, sales, design and engineering teams to add and release new features, APIs, and functionalities based on feedback, data and market research.
+I am a B2B product manager who started my career as a software engineer then transitioned to consulting, sales engineering and then product. I manage a portfolio of products and lead a team of five talented product managers at PDFTron.
 
 Development Experience:
 - Frontend: JS, TS, React, Angular, Vue
@@ -11,9 +9,6 @@ Development Experience:
 - Databases: SQL, MongoDB, Firebase
 - Other: AWS, Salesforce
 
-Learning:
-- AWS Associate Solution Architect
-- Trailblazing Salesforce
 
 ###### Some of the apps I have built at PDFTron:
 - [DocuSign clone](https://github.com/PDFTron/pdftron-sign-app)
@@ -24,9 +19,8 @@ Learning:
 - [Mendix Web Widget](https://github.com/PDFTron/webviewer-mendix-sample)
 - [Email to PDF with attachments](https://github.com/PDFTron/nodejs-mail-to-pdf)
 
-###### NPM Packages
-
-- [WebViewer 3D annotation](https://www.npmjs.com/package/@pdftron/webviewer-3d)
+###### Products
+- [WebViewer](https://www.npmjs.com/package/@pdftron/webviewer)
 - [WebViewer Video annotation](https://www.npmjs.com/package/@pdftron/webviewer-video)
 - [WebViewer HTML annotation](https://www.npmjs.com/package/@pdftron/webviewer-html)
 - [WebViewer Walkthrough Experience](https://www.npmjs.com/package/@pdftron/webviewer-walkthrough)
