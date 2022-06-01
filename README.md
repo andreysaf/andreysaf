@@ -1,6 +1,6 @@
 ### Head of Product @PDFTron
 
-I am a B2B product manager who started my career as a software engineer then transitioned to consulting, sales engineering and then product. I manage a portfolio of products and lead a team of five talented product managers at PDFTron.
+I am a B2B, B2C product manager who started my career as a software engineer then transitioned to consulting, sales engineering and then product. I manage a portfolio of products and lead a team of five talented product managers at PDFTron.
 
 Development Experience:
 - Frontend: JS, TS, React, Angular, Vue
