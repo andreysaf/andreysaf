@@ -1,5 +1,5 @@
 ### Director of Product @Apryse
-I am a product leader who started my career as a software engineer then transitioned to consulting, sales engineering and then product. I had a fantastic experience transitioning a sales/engineering-led start-up (PDFTron) to a product-led mid-size company with two rounds of private equity. Now I manage a portfolio of products and lead a team of five talented product managers at Apryse.
+I am a product leader who started my career as a software engineer then transitioned to consulting, sales engineering and then product. I had a fantastic experience transitioning a sales/engineering-led start-up (PDFTron) to a product-led mid-size company. Now I manage a portfolio of products and lead a team of five talented product managers at Apryse.
 
 Development Experience:
 - Frontend: JS, TS, React, Angular, Vue
