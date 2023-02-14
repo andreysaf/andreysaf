@@ -1,5 +1,13 @@
 ### Director of Product @Apryse
-I am a product leader who started my career as a software engineer then transitioned to consulting, sales engineering and then product. I had a fantastic experience transitioning a sales/engineering-led start-up (PDFTron) to a product-led mid-size company. I am currently leading a team of 5 Product Managers and managing a diverse product portfolio that includes SDKs and UI products.
+With over 10 years of experience in the tech industry, I have a unique background that includes experience as a software engineer, consultant, solutions engineer, and product manager. I am currently serving as a Director of Product, leading a team of 5 Product Managers and managing a portfolio of SDKs and UI products.
+
+My experience as a software engineer has given me a solid technical foundation, while my experience in consulting and sales engineering has allowed me to understand the customer's needs and challenges. This, combined with my experience as a product manager, has equipped me with the skills necessary to lead my team to success.
+
+One of my proudest achievements is leading the transition of the company from an engineering-led to a product-led. Through this transformation, I have been able to put the customer at the center of everything we do, resulting in increased customer satisfaction and business growth.
+
+I am a strong believer in continuous learning and staying ahead of the curve. I have a deep understanding of the latest industry trends and technologies, and I am constantly exploring new and innovative ways to improve our products and drive business success.
+
+I am excited to continue my journey in the tech industry, and I am confident in my ability to lead my team and my products to success. If you're looking for a seasoned Director of Product with a proven track record of success, let's connect!
 
 Development Experience:
 - Frontend: JS, TS, React, Angular, Vue
