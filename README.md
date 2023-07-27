@@ -1,5 +1,5 @@
-### Director of Product @Apryse
-With over 10 years of experience in the tech industry, I have a unique background that includes experience as a software engineer, consultant, solutions engineer, and product manager. I am currently serving as a Director of Product, leading a team of 5 Product Managers and managing a portfolio of SDKs and UI products.
+### Technical Product Manager
+With over 10 years of experience in the tech industry, I have a unique background that includes experience as a software engineer, consultant, solutions engineer, and product manager.
 
 My experience as a software engineer has given me a solid technical foundation, while my experience in consulting and sales engineering has allowed me to understand the customer's needs and challenges. This, combined with my experience as a product manager, has equipped me with the skills necessary to lead my team to success.
 
