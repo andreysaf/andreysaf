@@ -5,6 +5,7 @@ With over 10 years of experience in the tech industry, I bring a unique perspect
 ---
 
 ## 🧰 Tech Stack
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreysaf&layout=compact&hide=html,css)
 
 **Frontend:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
@@ -40,16 +41,6 @@ With over 10 years of experience in the tech industry, I bring a unique perspect
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
 ![Linear](https://img.shields.io/badge/-Linear-333?style=flat&logo=linear)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-333?style=flat&logo=openai)
-
----
-
-## 📊 GitHub Stats
-
-![Andrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreysaf&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreysaf&layout=compact&hide=html,css)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andreysaf&theme=default)
-![Andrey's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=andreysaf&theme=default)
 
 ---
 
