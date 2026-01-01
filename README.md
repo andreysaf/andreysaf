@@ -8,7 +8,7 @@ With a strong software engineering background, I can assess AI output for correc
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/andreysaf/)
-- [andreysafonov.com](https://andreysafonov.com)
+[LinkedIn](https://www.linkedin.com/in/andreysaf/)
+[andreysafonov.com](https://andreysafonov.com)
 
 ---
